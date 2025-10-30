@@ -1,0 +1,56 @@
+# Unity generated folders
+/[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+obj/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Crashlytics / Fabric
+fabric.properties
+
+# Unity auto generated meta files (do not ignore .meta for assets)
+# (leave .meta files for Assets/ and ProjectSettings/ - they are needed!)
+
+# Build output
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.zip
+
+# Other generated
+MemoryCaptures/
+*.tmp
+
+# Rider
+.idea/
+*.sublime-*
+
+# Packages cache
+/Library/PackageCache/
+~/.gradle/
+
+# Addressables
+/Assets/AddressableAssetsData/*/aa/*
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
